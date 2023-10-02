@@ -1,0 +1,23 @@
+name: Missing DB Entry
+description: Enter a wiki you believe is missing
+title: "[Missing]: "
+labels: ["Missing Entry"]
+assignees:
+  - Steve0Greatness
+body:
+  - type: input
+    id: fandom
+    attributes:
+      label: Fandom URL
+      description: The original URL(or ID) of the wiki(hosted by Fandom)
+      placeholder: <...>.fandom.com
+    validations:
+      required: true
+  - type: input
+    id: newWiki
+    attributes:
+      label: New URL
+      description: The new URL of the wiki
+      placeholder: <...>.com
+    validations:
+      required: true
