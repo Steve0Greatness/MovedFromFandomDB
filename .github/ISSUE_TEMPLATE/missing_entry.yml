@@ -1,9 +1,7 @@
 name: Missing DB Entry
 description: Enter a wiki you believe is missing
 title: "[Missing]: "
-labels: ["Missing Entry"]
-assignees:
-  - Steve0Greatness
+labels: ["Missing Entry", "good first issue"]
 body:
   - type: input
     id: fandom
