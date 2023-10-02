@@ -24,4 +24,6 @@ The entire database is accessible through the [`database.json`](database.json) f
 
 You can create an issue about any missing wikis, they'll probably be added very quickly.
 
+On the other hand, if you know how to write JSON files, then feel free to submit PRs that add missing wikis. Make sure to mention any issues that are resolved with your PR(you can reference issues using `#<issue number>`), so that they can be closed as resolved after your PR gets committed.
+
 Other than that, the best you can do is spread the word. Make sure to not go off topic to let people know, though. Maybe just putting it in a forum signature, or politely linking new contributors to the fandom-version of any of these wikis to this repository, and also maybe giving them the URL to the new wiki.
