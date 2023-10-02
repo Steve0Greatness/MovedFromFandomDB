@@ -14,6 +14,8 @@ These are only a few reasons that wikis may have for moving off of Fandom, howev
 
 This provides an easy to reference database for Fandom wikis that have moved to other places. The database itself is within the JSON format, making it easy to parse for machines, while keeping it readable for everyone else. Although it is readable by humans, this database is mostly intended for scripts or extensions.
 
+An example of a script that uses this is [`auto-search.user.js`](auto-search.user.js), feel free to download that user-script using your user-script manager(ex. [Violentmonkey](https://violentmonkey.github.io/)).
+
 ## Where can I find the database?
 
 The entire database is accessible through the [`database.json`](database.json) file. Keep in mind that you need to use the bottom level domain for the Fandom wiki: e.g. in `https://minecraft.fandom.com`, the bottom level domain would be `minecraft`.
