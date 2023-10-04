@@ -1,23 +1,51 @@
 {
     "satisfactory": {
-        "newURL": "satisfactory.wiki.gg"
+        "newURL": "satisfactory.wiki.gg",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
     },
     "minecraft": {
-        "newURL": "minecraft.wiki"
+        "newURL": "minecraft.wiki",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
     },
     "doom": {
-        "newURL": "doomwiki.org"
+        "newURL": "doomwiki.org",
+        "interchangeablePaths": {
+            "value": false,
+            "includeWiki": true
+        }
     },
     "zelda": {
-        "newURL": "zeldawiki.wiki"
+        "newURL": "zeldawiki.wiki",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
     },
     "astroneer": {
-        "newURL": "astroneer.wiki.gg"
+        "newURL": "astroneer.wiki.gg",
+        "interchangeablePaths": {
+            "value": false,
+            "includeWiki": true
+        }
     },
     "oldschoolrunescape": {
-        "newURL": "oldschool.runescape.wiki"
+        "newURL": "oldschool.runescape.wiki",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
     },
     "runescape": {
-        "newURL": "runescape.wiki"
+        "newURL": "runescape.wiki",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
     }
 }
