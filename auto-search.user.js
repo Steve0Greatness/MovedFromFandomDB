@@ -15,5 +15,5 @@
     if (!(BottomLevelDomain in DataBase)) {
       return;
     }
-    location = "//" + DataBase[BottomLevelDomain];
+    location = "//" + DataBase[BottomLevelDomain].newURL;
   })()

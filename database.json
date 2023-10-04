@@ -1,5 +1,11 @@
 {
-    "satisfactory": "satisfactory.wiki.gg",
-    "minecraft": "minecraft.wiki",
-    "doom": "doomwiki.org"
+    "satisfactory": {
+        "newURL": "satisfactory.wiki.gg"
+    },
+    "minecraft": {
+        "newURL": "minecraft.wiki"
+    },
+    "doom": {
+        "newURL": "doomwiki.org"
+    }
 }
