@@ -7,5 +7,17 @@
     },
     "doom": {
         "newURL": "doomwiki.org"
+    },
+    "zelda": {
+        "newURL": "zeldawiki.wiki"
+    },
+    "astroneer": {
+        "newURL": "astroneer.wiki.gg"
+    },
+    "oldschoolrunescape": {
+        "newURL": "oldschool.runescape.wiki"
+    },
+    "runescape": {
+        "newURL": "runescape.wiki"
     }
 }
