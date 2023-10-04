@@ -1,0 +1,28 @@
+name: Wrongly Listed DB Entry
+description: Enter a wiki you believe is incorrectly listed as having moved.
+title: "[Wrongly Listed]: "
+labels: ["Wrongly Listed"]
+body:
+  - type: input
+    id: fandom
+    attributes:
+      label: Fandom URL
+      description: The original URL(or ID) of the wiki(hosted by Fandom)
+      placeholder: <...>.fandom.com
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details about this entry
+      description: Include plenty of details about why you believe this entry is incorrectly listed.
+      placeholder: |
+      I know this source isn't correctly listed because...
+      The admins of ___ are not the original admins of the Fandom...
+      I've checked with the admins of the Fandom, they published that they haven't moved on...
+    validations:
+      required: true
+  - type: markdown
+    attributes:
+      value: |
+        Make sure all information you've listed above is publicly accessible, and that it comes from a trustworthy source. Someone should look into your issue once posted.
