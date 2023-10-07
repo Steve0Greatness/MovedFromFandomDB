@@ -47,5 +47,61 @@
             "value": true,
             "includeWiki": true
         }
+    },
+    "jojo": {
+        "newURL": "jojowiki.com",
+        "interchangeablePaths": {
+            "value": false,
+            "includeWiki": false
+        }
+    },
+    "deeprockgalactic": {
+        "newURL": "deeprockgalactic.wiki.gg",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
+    },
+    "hearthstone": {
+        "newURL": "hearthstone.wiki.gg",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
+    },
+    "animalcrossingpocketcamp": {
+        "newURL": "animalcrossingpocketcamp.wiki.gg",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
+    },
+    "sonsoftheforest": {
+        "newURL": "sonsoftheforest.wiki.gg",
+        "interchangeablePaths": {
+            "value": false,
+            "includeWiki": true
+        }
+    },
+    "foxhole": {
+        "newURL": "foxhole.wiki.gg",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
+    },
+    "truck-simulator": {
+        "newURL": "trucksimulator.wiki.gg",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
+    },
+    "rct": {
+        "newURL": "rct.wiki",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
     }
 }
