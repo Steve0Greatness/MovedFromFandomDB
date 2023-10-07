@@ -103,5 +103,33 @@
             "value": true,
             "includeWiki": true
         }
+    },
+    "arknights": {
+        "newURL": "arknights.wiki.gg",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
+    },
+    "aether": {
+        "newURL": "aether.wiki.gg",
+        "interchangeablePaths": {
+            "value": false,
+            "includeWiki": true
+        }
+    },
+    "ark": {
+        "newURL": "ark.wiki.gg",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
+    },
+    "townshiptale": {
+        "newURL": "townshiptale.wiki.gg",
+        "interchangeablePaths": {
+            "value": true,
+            "includeWiki": true
+        }
     }
 }
