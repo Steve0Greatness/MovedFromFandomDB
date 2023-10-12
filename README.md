@@ -1,6 +1,6 @@
-# Moved from Fandom DataBase
+# Forked from Fandom DataBase
 
-This is a database that keeps track of wikis that have moved from the Fandom to their new one.
+This is a database that keeps track of wikis that have "forked" from the Fandom to their new one.
 
 ## Why move from Fandom?
 
