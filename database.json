@@ -1,149 +1,203 @@
 {
     "satisfactory": {
         "newURL": "satisfactory.wiki.gg",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "index.php?search="
+        },
+        "search": {
+            "homeTitle": "Official Satisfactory Wiki",
+            "favicon": "https://satisfactory.wiki.gg/favicon.ico"
         }
     },
     "minecraft": {
         "newURL": "minecraft.wiki",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "w/Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "The Minecraft Wiki",
+            "favicon": "https://minecraft.wiki/favicon.ico"
         }
     },
     "doom": {
         "newURL": "doomwiki.org",
-        "interchangeablePaths": {
-            "value": false,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": false,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "wiki/Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more",
+            "favicon": "https://doomwiki.org/favicon.ico"
         }
     },
     "zelda": {
         "newURL": "zeldawiki.wiki",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "w/index.php?search="
         }
     },
     "astroneer": {
         "newURL": "astroneer.wiki.gg",
-        "interchangeablePaths": {
-            "value": false,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": false,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "index.php?search="
         }
     },
     "oldschoolrunescape": {
         "newURL": "oldschool.runescape.wiki",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "w/Special:Search?search="
         }
     },
     "runescape": {
         "newURL": "runescape.wiki",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "w/Special:Search?search="
         }
     },
     "jojo": {
         "newURL": "jojowiki.com",
-        "interchangeablePaths": {
-            "value": false,
-            "includeWiki": false
+        "pathInfo": {
+            "interchangable": false,
+            "includeWiki": false,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "deeprockgalactic": {
         "newURL": "deeprockgalactic.wiki.gg",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "hearthstone": {
         "newURL": "hearthstone.wiki.gg",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "animalcrossingpocketcamp": {
         "newURL": "animalcrossingpocketcamp.wiki.gg",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "sonsoftheforest": {
         "newURL": "sonsoftheforest.wiki.gg",
-        "interchangeablePaths": {
-            "value": false,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": false,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "foxhole": {
         "newURL": "foxhole.wiki.gg",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "truck-simulator": {
         "newURL": "trucksimulator.wiki.gg",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "rct": {
         "newURL": "rct.wiki",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "wiki/Special:Search?search="
         }
     },
     "arknights": {
         "newURL": "arknights.wiki.gg",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "aether": {
         "newURL": "aether.wiki.gg",
-        "interchangeablePaths": {
-            "value": false,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": false,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "ark": {
         "newURL": "ark.wiki.gg",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "townshiptale": {
         "newURL": "townshiptale.wiki.gg",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     },
     "yugioh": {
         "newURL": "yugipedia.com",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "wiki/Special:Search?search="
         }
     },
     "wowpedia": {
         "newURL": "warcraft.wiki.gg",
-        "interchangeablePaths": {
-            "value": true,
-            "includeWiki": true
+        "pathInfo": {
+            "interchangable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
         }
     }
 }
