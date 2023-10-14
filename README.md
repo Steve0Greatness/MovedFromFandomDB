@@ -1,6 +1,6 @@
 # Forked from Fandom DataBase
 
-This is a database that keeps track of wikis that have "forked" from the Fandom to their new one.
+This is a general database for wikis that have officially forked from Fandom to another platform.
 
 ## Why move from Fandom?
 
@@ -14,7 +14,7 @@ These are only a few reasons that wikis may have for moving off of Fandom, howev
 
 This provides an easy to reference database for Fandom wikis that have moved to other places. The database itself is within the JSON format, making it easy to parse for machines, while keeping it readable for everyone else. Although it is readable by humans, this database is mostly intended for scripts or extensions.
 
-An example of a script that uses this is [`auto-search.user.js`](auto-search.user.js), feel free to download that user-script using your user-script manager(ex. [Violentmonkey](https://violentmonkey.github.io/)). **Additional installation sources:** [Greasy Fork](https://greasyfork.org/en/scripts/476527-fandom-redirect)
+An example of a script that uses this is [`example.user.js`](example.user.js), feel free to download that user-script using your user-script manager(ex. [Violentmonkey](https://violentmonkey.github.io/)). **Additional installation sources:** [Greasy Fork](https://greasyfork.org/en/scripts/476527-fandom-redirect)
 
 ## Where can I find the database?
 

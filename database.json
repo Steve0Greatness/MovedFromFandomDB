@@ -2,7 +2,7 @@
     "satisfactory": {
         "newURL": "satisfactory.wiki.gg",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "index.php?search="
@@ -24,7 +24,7 @@
     "minecraft": {
         "newURL": "minecraft.wiki",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "w/Special:Search?search="
@@ -46,7 +46,7 @@
     "doom": {
         "newURL": "doomwiki.org",
         "pathInfo": {
-            "interchangable": false,
+            "interchangeable": false,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "wiki/Special:Search?search="
@@ -68,7 +68,7 @@
     "zelda": {
         "newURL": "zeldawiki.wiki",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "w/index.php?search="
@@ -90,7 +90,7 @@
     "astroneer": {
         "newURL": "astroneer.wiki.gg",
         "pathInfo": {
-            "interchangable": false,
+            "interchangeable": false,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "index.php?search="
@@ -99,7 +99,7 @@
     "oldschoolrunescape": {
         "newURL": "oldschool.runescape.wiki",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "w/Special:Search?search="
@@ -108,7 +108,7 @@
     "runescape": {
         "newURL": "runescape.wiki",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "w/Special:Search?search="
@@ -117,7 +117,7 @@
     "jojo": {
         "newURL": "jojowiki.com",
         "pathInfo": {
-            "interchangable": false,
+            "interchangeable": false,
             "includeWiki": false,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -126,7 +126,7 @@
     "deeprockgalactic": {
         "newURL": "deeprockgalactic.wiki.gg",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -135,7 +135,7 @@
     "hearthstone": {
         "newURL": "hearthstone.wiki.gg",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -144,7 +144,7 @@
     "animalcrossingpocketcamp": {
         "newURL": "animalcrossingpocketcamp.wiki.gg",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -153,7 +153,7 @@
     "sonsoftheforest": {
         "newURL": "sonsoftheforest.wiki.gg",
         "pathInfo": {
-            "interchangable": false,
+            "interchangeable": false,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -162,7 +162,7 @@
     "foxhole": {
         "newURL": "foxhole.wiki.gg",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -171,7 +171,7 @@
     "truck-simulator": {
         "newURL": "trucksimulator.wiki.gg",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -180,7 +180,7 @@
     "rct": {
         "newURL": "rct.wiki",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "wiki/Special:Search?search="
@@ -189,7 +189,7 @@
     "arknights": {
         "newURL": "arknights.wiki.gg",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -198,7 +198,7 @@
     "aether": {
         "newURL": "aether.wiki.gg",
         "pathInfo": {
-            "interchangable": false,
+            "interchangeable": false,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -207,7 +207,7 @@
     "ark": {
         "newURL": "ark.wiki.gg",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -216,7 +216,7 @@
     "townshiptale": {
         "newURL": "townshiptale.wiki.gg",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
@@ -225,7 +225,7 @@
     "yugioh": {
         "newURL": "yugipedia.com",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "wiki/Special:Search?search="
@@ -234,7 +234,7 @@
     "wowpedia": {
         "newURL": "warcraft.wiki.gg",
         "pathInfo": {
-            "interchangable": true,
+            "interchangeable": true,
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
