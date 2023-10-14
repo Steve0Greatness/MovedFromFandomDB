@@ -27,3 +27,36 @@ You can create an issue about any missing wikis, they'll probably be added very 
 On the other hand, if you know how to write JSON files, then feel free to submit PRs that add missing wikis. Make sure to mention any issues that are resolved with your PR(you can reference issues using `#<issue number>`), so that they can be closed as resolved after your PR gets committed.
 
 Other than that, the best you can do is spread the word. Make sure to not go off topic to let people know, though. Maybe just putting it in a forum signature, or politely linking new contributors to the fandom-version of any of these wikis to this repository, and also maybe giving them the URL to the new wiki.
+
+## Usage Documentation
+
+To get information about a Fandom wiki, use it's bottom level domain.
+
+`newURL`: The URL currently used by the wiki
+`pathInfo`: General information about the wiki article's paths {
+
+`interchangeable`: this parameter should be used if all pages from the Fandom wiki are on the new one(full fork)
+`includeWiki`: if the wiki uses `/wiki/` before every page(possibly excluding the main page)
+`pretext`: if a wiki has anything before `/wiki/`(or if `includeWiki` is false, then before the page's _actual_ path)
+`searchPretext`: If `interchangeable` is false, then all pages should redirect to a search page. This is the path to the search page.
+
+}
+`search`\*: How web searches should be handled {
+
+`homeTitle`: the title of the main page.
+`favicon`: URL to to the favicon of the webpage. Can either be found at `favicon.ico`, or whatever the `link[rel=icon]` is.
+`subPages`: Info about the titles of articles/sub-pages {
+`noChange`: if the title template was changed at all.
+`articleTitle`: how to get the article's title {
+`splitter`: what is used to split the article name, and the wiki's name.
+`index`: once split, what index the title will be at.
+
+}
+`titleJoiner`: what the title is joined by
+`appendTitle`: text appended after the article's title
+
+}
+
+}
+
+\* Not fully implemented
