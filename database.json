@@ -9,7 +9,16 @@
         },
         "search": {
             "homeTitle": "Official Satisfactory Wiki",
-            "favicon": "https://satisfactory.wiki.gg/favicon.ico"
+            "favicon": "https://satisfactory.wiki.gg/favicon.ico",
+            "subPages": {
+                "noChange": true,
+                "articleTitle": {
+                   "splitter": " - ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "Official Satisfactory Wiki"
+            }
         }
     },
     "minecraft": {
@@ -22,7 +31,16 @@
         },
         "search": {
             "homeTitle": "The Minecraft Wiki",
-            "favicon": "https://minecraft.wiki/favicon.ico"
+            "favicon": "https://minecraft.wiki/favicon.ico",
+            "subPages": {
+                "noChange": false,
+                "articleTitle": {
+                   "splitter": " - ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "Minecraft Wiki"
+            }
         }
     },
     "doom": {
@@ -35,7 +53,16 @@
         },
         "search": {
             "homeTitle": "The Doom Wiki at DoomWiki.org - Doom, Heretic, Hexen, Strife, and more",
-            "favicon": "https://doomwiki.org/favicon.ico"
+            "favicon": "https://doomwiki.org/favicon.ico",
+            "subPages": {
+                "noChange": false,
+                "articleTitle": {
+                   "splitter": " | ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "The Doom Wiki at DoomWiki.org"
+            }
         }
     },
     "zelda": {
@@ -45,6 +72,19 @@
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "w/index.php?search="
+        },
+        "search": {
+            "homeTitle": "Zelda Wiki",
+            "favicon": "http://cdn.wikimg.net/en/zeldawiki/favicon.ico",
+            "subPages": {
+                "noChange": true,
+                "articleTitle": {
+                   "splitter": " - ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "Zelda Wiki"
+            }
         }
     },
     "astroneer": {
