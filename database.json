@@ -94,6 +94,19 @@
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "index.php?search="
+        },
+        "search": {
+            "homeTitle": "Official Astroneer Wiki",
+            "favicon": "https://astroneer.wiki.gg/favicon.ico",
+            "subPages": {
+                "noChange": false,
+                "articleTitle": {
+                   "splitter": " - ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "Official Astroneer Wiki"
+            }
         }
     },
     "oldschoolrunescape": {
@@ -103,6 +116,19 @@
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "w/Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "Old School RuneScape Wiki",
+            "favicon": "https://oldschool.runescape.wiki/favicon.ico",
+            "subPages": {
+                "noChange": false,
+                "articleTitle": {
+                   "splitter": " | ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "OSRS Wiki"
+            }
         }
     },
     "runescape": {
@@ -112,6 +138,19 @@
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "w/Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "The RuneScape Wiki",
+            "favicon": "https://runescape.wiki/favicon.ico",
+            "subPages": {
+                "noChange": false,
+                "articleTitle": {
+                   "splitter": " | ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "The RuneScape Wiki"
+            }
         }
     },
     "jojo": {
@@ -121,6 +160,19 @@
             "includeWiki": false,
             "pretext": "",
             "searchPretext": "Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "JoJo's Bizarre Encyclopedia - JoJo Wiki",
+            "favicon": "https://jojowiki.com/favicon.ico",
+            "subPages": {
+                "noChange": false,
+                "articleTitle": {
+                   "splitter": " | ",
+                   "index": 0
+                },
+                "titleJoiner": " | ",
+                "appendTitle": "JoJo Wiki"
+            }
         }
     },
     "deeprockgalactic": {
@@ -130,6 +182,19 @@
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "Official Deep Rock Galactic Wiki",
+            "favicon": "https://deeprockgalactic.wiki.gg/favicon.ico",
+            "subPages": {
+                "noChange": false,
+                "articleTitle": {
+                   "splitter": " - ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "Official Deep Rock Galactic Wiki"
+            }
         }
     },
     "hearthstone": {
@@ -139,6 +204,19 @@
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "New Hearthstone Wiki, the encyclopedia built by fans",
+            "favicon": "https://hearthstone.wiki.gg/favicon.ico",
+            "subPages": {
+                "noChange": false,
+                "articleTitle": {
+                   "splitter": " - ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "New Hearthstone Wiki"
+            }
         }
     },
     "animalcrossingpocketcamp": {
@@ -148,6 +226,19 @@
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "Animal Crossing Pocket Camp Wiki",
+            "favicon": "https://animalcrossingpocketcamp.wiki.gg/favicon.ico",
+            "subPages": {
+                "noChange": false,
+                "articleTitle": {
+                   "splitter": " - ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "Animal Crossing Pocket Camp Wiki"
+            }
         }
     },
     "sonsoftheforest": {
@@ -157,6 +248,19 @@
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "Sons of the Forest Wiki",
+            "favicon": "https://sonsoftheforest.wiki.gg/favicon.ico",
+            "subPages": {
+                "noChange": true,
+                "articleTitle": {
+                   "splitter": " - ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "Sons of the Forest Wiki"
+            }
         }
     },
     "foxhole": {
@@ -166,6 +270,19 @@
             "includeWiki": true,
             "pretext": "",
             "searchPretext": "Special:Search?search="
+        },
+        "search": {
+            "homeTitle": "Official Foxhole Wiki",
+            "favicon": "https://foxhole.wiki.gg/favicon.ico",
+            "subPages": {
+                "noChange": true,
+                "articleTitle": {
+                   "splitter": " - ",
+                   "index": 0
+                },
+                "titleJoiner": " - ",
+                "appendTitle": "Official Foxhole Wiki"
+            }
         }
     },
     "truck-simulator": {
