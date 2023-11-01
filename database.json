@@ -356,5 +356,14 @@
             "pretext": "",
             "searchPretext": "Special:Search?search="
         }
+    },
+    "hollowknight": {
+        "newURL": "hollowknight.wiki",
+        "pathInfo": {
+            "interchangeable": true,
+            "includeWiki": true,
+            "pretext": "",
+            "searchPretext": "Special:Search?search="
+        }
     }
 }
